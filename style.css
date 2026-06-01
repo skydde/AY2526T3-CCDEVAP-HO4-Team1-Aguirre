@@ -1,0 +1,41 @@
+.header-container {
+    text-align: center;     
+    font-family: Arial, sans-serif;
+    margin-top: 40px;       
+    margin-bottom: 40px;    
+}
+
+h1 {
+    font-size: 36px;        
+    color: #050404;        
+    margin-bottom: 8px;     
+}
+
+.subtitle {
+    font-size: 18px;       
+    color: #5b5353;         
+    margin-top: 0;        
+}
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+.card {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    transition: transform 0.2s ease;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+}
+
+.chart-container {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
